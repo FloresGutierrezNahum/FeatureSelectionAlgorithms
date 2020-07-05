@@ -6,7 +6,8 @@ Algoritmos de selección de caracteristicas
 - pip install sklearn
 - pip install pandas
 - pip install ReliefF
-- pip install skrebate  
+- pip install skrebate    
+- pip install mlxtend  
+
   
-
-
+https://github.com/tlatkowski/tf-feature-selection/blob/master/methods/selection.py
