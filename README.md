@@ -11,4 +11,6 @@ Algoritmos de selección de caracteristicas
 
   
 https://github.com/tlatkowski/tf-feature-selection/blob/master/methods/selection.py  
-https://github.com/topics/mrmr
+https://github.com/topics/mrmr  
+https://github.com/tlatkowski/tf-feature-selection/tree/master/tests  
+https://github.com/helenzhao093/MLMethods  
