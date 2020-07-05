@@ -10,4 +10,5 @@ Algoritmos de selección de caracteristicas
 - pip install mlxtend  
 
   
-https://github.com/tlatkowski/tf-feature-selection/blob/master/methods/selection.py
+https://github.com/tlatkowski/tf-feature-selection/blob/master/methods/selection.py  
+https://github.com/topics/mrmr
